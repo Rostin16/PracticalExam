@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "bf12",
+      "title": "Bottle",
+      "price": "599",
+      "image": "https://cdn.shopify.com/s/files/1/0070/7032/articles/product-label-design_12bef966-5fd8-40b0-95f5-d5d3a5ea8c71.jpg?v=1729281673&originalWidth=1848&originalHeight=782&width=1800",
+      "category": "Bottle"
+    },
+    {
+      "id": "2a33",
+      "title": "Apple",
+      "price": "86598",
+      "image": "https://m.media-amazon.com/images/I/31p5cVyRLmL._SY445_SX342_QL70_FMwebp_.jpg",
+      "category": "Mobile"
+    }
+  ]
+}
